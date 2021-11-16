@@ -33,9 +33,6 @@ public class App extends Application {
 
     public static void main(String[] args) {
         System.out.println("mario avrà una mano di ferro");
-        
-        System.out.println("hvjh");
-        System.out.println("mario no hair");
         launch();
     }
 
