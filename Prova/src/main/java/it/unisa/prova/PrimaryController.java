@@ -11,6 +11,7 @@ public class PrimaryController {
 
     @FXML
     private void switchToSecondary() throws IOException {
+        /*mario è orribile*/
         App.setRoot("secondary");
     }
 }
