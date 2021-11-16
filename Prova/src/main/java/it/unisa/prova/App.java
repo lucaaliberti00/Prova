@@ -32,7 +32,7 @@ public class App extends Application {
     }
 
     public static void main(String[] args) {
-        System.out.println("mario avrà una mano di ferro");
+        System.out.println("mario avrà una mano di ferro");//luca brutto e puzzolente senza capelli e con l'iscrizione ad unisaa senza problemi
         
         System.out.println("1234567");
         System.out.println("mario no hair");
