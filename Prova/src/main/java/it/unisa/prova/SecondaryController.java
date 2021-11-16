@@ -7,6 +7,8 @@ public class SecondaryController {
 
     @FXML
     private void switchToPrimary() throws IOException {
+        // mario puzza
         App.setRoot("primary");
+        
     }
 }
